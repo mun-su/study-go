@@ -18,5 +18,4 @@ func main() {
 	expose = true
 
 	fmt.Println("zipCode : ", zipCode, "address : ", address, "addressDetail : ", addressDetail, "expose : ", expose)
-
 }
