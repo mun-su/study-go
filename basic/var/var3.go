@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	// 짧은 선은
+	// 짧은 선언
 	// 기존 var 변수명 변수형
 	// 함수 안에서만 사용(전역 X), 선운 후 할당 예외 발생
 	// 주로 제한된 범위의 함수내에서 사용 할 경우 코드 가독성을 높일 수 있다.
@@ -23,7 +23,7 @@ func main() {
 	// d := true
 
 	if i := 7; i < 10 {
-		fmt.Println("i variable")
+		fmt.Println("i is variable")
 	}
 
 }
