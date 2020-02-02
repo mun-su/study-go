@@ -22,4 +22,5 @@ func main() {
 
 	// Jetbrain Goland 사용시에는 다음과 같이 사용 할 수 있음.
 	// Preferences > Tools > File Watchers > go fmt 추가.
+	// 저장시 마다 코드 스타일이 적용됨
 }
