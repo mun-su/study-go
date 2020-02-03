@@ -5,4 +5,9 @@
 - 접근 제어
 
 ## 접근제어 및 alias
+- private, public
+- import alias
+
 ## 초기화 메소드
+- init 개념
+- 실행 순서.
