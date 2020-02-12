@@ -13,3 +13,4 @@ https://golang.org/pkg/sort
 https://golang.org/ref/sepc#Map_types
 
 # 포인터 기초
+https://golang.org/ref/sepc#Pointer_types
