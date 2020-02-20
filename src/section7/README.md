@@ -10,4 +10,6 @@ https://golang.org/ref/spec#Struct_types
 https://golang.org/ref/spec#Method_declarations
 
 ## 인터페이스 기초
+https://golang.org/ref/spec#Interface_types
+
 ## 인터페이스 심화
