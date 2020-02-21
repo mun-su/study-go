@@ -13,3 +13,4 @@ https://golang.org/ref/spec#Method_declarations
 https://golang.org/ref/spec#Interface_types
 
 ## 인터페이스 심화
+https://golang.org/ref/spec#Interface_types
