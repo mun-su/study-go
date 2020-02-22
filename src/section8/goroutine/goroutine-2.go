@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	// 고루틴(Gorouutine)
+	// 고루틴(Goroutine)
 	exe("t1")
 	fmt.Println("Main Routine Start : ", time.Now())
 	go exe("t2")
