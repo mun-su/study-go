@@ -6,7 +6,9 @@ https://golang.org/ref/spec#Go_statements
 https://golang.org/ref/spec#Channel_types
 
 ## 채널 고급
+https://golang.org/ref/spec#Select_types
 
 ## 동기화 기초
+
 
 ## 동기화 고급
