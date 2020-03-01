@@ -6,3 +6,4 @@ https://golang.org/pkg/errors
 https://golang.org/pkg/errors/#example_New_errorf
 
 ## Panic, Recover
+https://golang.org/ref/spec#Handling_panics

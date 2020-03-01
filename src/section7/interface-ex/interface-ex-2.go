@@ -25,7 +25,7 @@ func main() {
 	fmt.Println("ex1 :", reflect.TypeOf(c))
 
 	// runtime error
-	// panic: interface conversion: interface {} is int, not float64
+	// panic-recovery: interface conversion: interface {} is int, not float64
 	// fmt.Println("ex1 :", d)
 
 	// ex2 (저장된 실테 타입 검사)
