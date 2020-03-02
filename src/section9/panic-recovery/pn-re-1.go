@@ -15,4 +15,5 @@ func main() {
 	panic("Error occurred : user stopped!") // 방법 1
 	// log.Panic("Error occurred : user stopped!") // 방법 2
 	fmt.Println("End Main")
+	
 }
