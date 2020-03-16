@@ -26,7 +26,8 @@ func main() {
 	fmt.Println("End Error Handling!")
 }
 
-func notZero(n int) (string, error) { // 메소드 리턴 값 error 타입 중요!
+// 메소드 리턴 값 error 타입 중요!
+func notZero(n int) (string, error) {
 	if n != 0 {
 		s := fmt.Sprint("Hello Golang : ", n)
 		return s, nil
